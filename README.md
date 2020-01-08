@@ -1,3 +1,3 @@
 # Quora Django
 
-### Quora clone with django framework (Python) with custom UI 
+### Quora clone with django framework (Python) And custom UI 
